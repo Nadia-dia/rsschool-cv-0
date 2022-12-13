@@ -1,5 +1,7 @@
 #**Nadzeya Kaliada**#
 
+![Photo](C:\Users\Nadzeya\Desktop)
+
 ##**Contact information:**##
 ###*Phone:* +48 791 325 445###
 ###*E-mail:* kaliadanadia@gmail.com###
