@@ -34,3 +34,10 @@ const sumDigits = (num) => {
 ```
 
 ##**Work experience:**##
+
+##**Education & courses:**##
+### 
+1. *Krakow University of Economics:* Bachelor's degree in International Tourism 2019/2022
+2. *CodeBasics.ru:* JavaScript for beginners 2022
+3. *Hexlet.io:* Introduction to programming 
+###
