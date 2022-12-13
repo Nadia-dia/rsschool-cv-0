@@ -41,3 +41,12 @@ const sumDigits = (num) => {
 2. *CodeBasics.ru:* JavaScript for beginners 2022
 3. *Hexlet.io:* Introduction to programming 
 ###
+
+##**Languages:**##
+###
+* ENglish - Upper Intermidiate
+* Russian - Native
+* Belarusian - Native
+* Polish - Upper Intermidiate
+###
+
