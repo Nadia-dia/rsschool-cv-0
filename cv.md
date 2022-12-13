@@ -1,6 +1,6 @@
 #**Nadzeya Kaliada**#
 
-![Photo](C:\Users\Nadzeya\Desktop)
+![Photo](D:\RS School\rsschool-cv\img)
 
 ##**Contact information:**##
 ###*Phone:* +48 791 325 445###
