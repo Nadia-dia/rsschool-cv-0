@@ -5,7 +5,6 @@
 
 ## **Contact information:**
 
-###
 *Phone:* +48 791 325 445
 *E-mail:* kaliadanadia@gmail.com
 *Telegram:* @deparbi
@@ -18,7 +17,6 @@
 
 ## **Skills:**
 
-###
 * Good at problem solving
 * Communication skills
 * Experience in planning and organizing
@@ -47,14 +45,12 @@ const sumDigits = (num) => {
 
 ## **Education & courses:**
 
-### 
 1. *Krakow University of Economics:* Bachelor's degree in International Tourism 2019/2022
 2. *CodeBasics.ru:* JavaScript for beginners 2022
 3. *Hexlet.io:* Introduction to programming 
 
 ## **Languages:**
 
-###
 * English - Upper Intermidiate
 * Russian - Native
 * Belarusian - Native
