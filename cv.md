@@ -8,3 +8,12 @@
 
 ##**About myself:**##
 ###I'm very enthusiastic person who is always starving for new knowledge. It was my dream and now it became the goal to learn Front-end Development.###
+
+##**Skills:**##
+###
+* Good at problem solving
+* Communication skills
+* Experience in planning and organizing
+* Confidence and leadership
+* Adaptability
+###
