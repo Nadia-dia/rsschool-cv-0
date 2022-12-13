@@ -17,3 +17,18 @@
 * Confidence and leadership
 * Adaptability
 ###
+
+##**Code Example:**##
+```javascript
+const sumDigits = (num) => {
+  let i = 0;
+  let sumOfDigits = 0;
+  let strNum = String(num);
+
+  while (i < strNum.length) {
+    sumOfDigits += Number(strNum[i]); 
+    i += 1;
+  }
+  return sumOfDigits;
+}
+```
